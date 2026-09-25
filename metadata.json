@@ -1,0 +1,8 @@
+{
+  "name": "Remix RTC Continuous Trial Monitoring System",
+  "description": "Continuous Trial Monitoring System for Regional Trial Courts. Records accused information, tracks continuous trial milestones, and generates official quarterly docket reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
